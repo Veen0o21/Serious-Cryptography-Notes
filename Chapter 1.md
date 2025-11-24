@@ -5,8 +5,6 @@ This chapter primarily addresses **symmetric encryption**, where the same key is
 A cipher is composed of two functions: encryption, C=E(K,P), and decryption, P=D(K,C). 
 Ciphertexts can never be shorter than plaintexts
 
-![[Pasted image 20251124151927.png|400]]
-
 ---
 ## Classical Ciphers
 Early ciphers, designed before computers, worked on letters rather than bits:
